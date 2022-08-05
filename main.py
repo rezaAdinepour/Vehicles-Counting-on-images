@@ -16,7 +16,7 @@ for imgPath in imagesDir:
     vehicleCount = len(vehicleBoxes)
     print('current vehicle: ', vehicleCount)
     vehicleDirCount += vehicleCount
-    print('total current vehicle: ', vehicleDirCount)
+
 
     #print(vehicleBoxes)
     for box in vehicleBoxes:
@@ -26,5 +26,7 @@ for imgPath in imagesDir:
 
 
     cv.imshow('img', img)
-    cv.waitKey(2000)
+    cv.waitKey(1)
     cv.destroyAllWindows()
+
+print('total current vehicle: ', vehicleDirCount)
