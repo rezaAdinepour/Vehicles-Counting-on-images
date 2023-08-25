@@ -9,4 +9,4 @@ After download <code>yolov4.weights</code> you can run <code>main.py</code>
 
 ## Result
 One of the results of this program is given below:
-[!image]()
+[!image](Result/1.png)
