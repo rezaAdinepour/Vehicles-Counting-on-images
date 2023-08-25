@@ -6,3 +6,7 @@ You can download weights [here](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&
 
 ## Use
 After download <code>yolov4.weights</code> you can run <code>main.py</code>
+
+## Result
+One of the results of this program is given below:
+[!image]()
